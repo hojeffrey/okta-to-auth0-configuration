@@ -1,0 +1,6 @@
+okta_api_token: "Insert Okta API Token"
+okta_org_url: "https://YourComapnyURL.okta.com"
+okta_app_name: "The app name that you want in Okta"
+auth0_domain: "YourComapnyURL.us.auth0.com"
+auth0_api_token: "Insert Auth0 API Token"
+auth0_connection_name: "The connection name that you want in auth0" # Must start and end with an alphanumeric character and can only contain alphanumeric characters and '-'. Max length 128

@@ -20,4 +20,4 @@ auth0_domain: "YourComapnyURL.us.auth0.com"
 auth0_api_token: "Insert Auth0 API Token"
 auth0_connection_name: "The connection name that you want in auth0"
 ```
-4. Run the script: `python okta-auth0-configuration.py`
+4. Run the script: `python okta_2_auth0_sso.py`

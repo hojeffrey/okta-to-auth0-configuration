@@ -9,7 +9,7 @@ This repository contains a Python script that creates an OIDC application in Okt
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/<username>/okta-auth0-configuration.git`
+1. Clone the repository
 2. Install the required libraries: `pip install requests` and `pip install pyyaml` (if you want to use the YAML file)
 3. Store your Okta API credentials, Auth0 API credentials, Okta Url, Auth0 URL, Okta Applciation Name, and Auth0 Connection name in a file named `config.yaml` in the following format:
 ```
